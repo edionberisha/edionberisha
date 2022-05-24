@@ -1,7 +1,7 @@
 Hi 👋 My name is Edion Berisha
 ==============================
 
-Web Developer
+Front-End Dev (soon to be Full-Stack...)
 -------------
 
 * 🌍  I'm based in Pristina, Kosovo
