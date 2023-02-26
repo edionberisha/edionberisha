@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 * 🌍  I'm based in Prishtina, Kosovo
-* 🚀  I'm currently working on [përtej](http://pertej.digital)
+* 🚀  I'm currently working on [përtej](https//pertej.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on interesting and innovative projects
 
